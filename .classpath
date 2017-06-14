@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sv837162/Downloads/SumitVerma_14June2017-master/lib/build/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sv837162/Downloads/SumitVerma_14June2017-master/lib/build/junit-addons.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sv837162/Downloads/SumitVerma_14June2017-master/lib/dist/hessian-io.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sv837162/Downloads/SumitVerma_14June2017-master/lib/dist/jetty-6.1.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sv837162/Downloads/SumitVerma_14June2017-master/lib/dist/jetty-util-6.1.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sv837162/Downloads/SumitVerma_14June2017-master/lib/dist/servlet-api-2.5-20081211.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/sv837162/Downloads/SumitVerma_14June2017-master/lib/src/hessian-io-src.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
